@@ -1,5 +1,4 @@
 boxci:
-     name: webapp_phpunit_modular_file_system_unit
      max_executors: 50
 
      commands:
